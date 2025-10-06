@@ -14,6 +14,12 @@ In this work, we propose the first principled method for data-efficient instruct
 XMAS employs a small proxy VLM to find alignment trajectory for examples in the fine-tuning data. Examples with similar alignment trajectory have similar gradients during instruction tuning. Then, it clusters the alignment trajectories and sample a balanced subset of examples with more stable trajectories from the clusters.
 </p>
 
+
+[Project Page](https://bigml-cs-ucla.github.io/XMAS-project-page/)
+
+[Paper](https://github.com/BigML-CS-UCLA/XMAS/tree/main)
+
+
 ## Table of Contents
 
 
