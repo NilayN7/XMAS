@@ -2,7 +2,7 @@
 ![Python 3.10](https://img.shields.io/badge/python-3.10-green)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue)
 
-This repository is the official implementation of our paper: "**Data Selection or Fine-Tuning Vision Language Models via Cross Modal Attention Trajectories**".
+This repository is the official implementation of our paper: "**Data Selection or Fine-Tuning Vision Language Models via Cross Modal Attention Trajectories**", ICML 2026.
 
 ## Overview
 Data-efficient learning aims to eliminate redundancy in large training datasets by training models on smaller subsets of the most informative examples. While data selection has been extensively explored for vision models and large language models (LLMs), it remains underexplored for Large Vision-Language Models (LVLMs). 
