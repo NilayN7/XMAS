@@ -15,7 +15,7 @@ from tinyllava.utils import *
 from tinyllava.model.load_model import load_pretrained_model
 
 
-def attention_scores(k_proj, q_proj):
+def attention_scores(q_proj, k_proj):
 	# https://github.com/huggingface/transformers/blob/main/src/transformers/models/qwen2/modeling_qwen2.py#L104
 
 	# Get dimensions
